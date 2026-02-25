@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main (){
     int i,n;
-    
     printf("ENTER THE SIZE OF THE ARRAY: \n");
     scanf("%d", &n);
 

@@ -11,7 +11,7 @@ int factorial(int n) {
 int main() {
     int num, temp, digit, sum = 0;
 
-    printf("Enter a number: ");
+    printf("Enter a Number: ");
     scanf("%d", &num);
 
     temp = num;

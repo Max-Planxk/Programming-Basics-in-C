@@ -1,6 +1,6 @@
-//eanmple program
-//just demonstration howstakc wors
-//
+//example program
+//just demonstration how stack works
+
 #include <stdio.h>
 #define SIZE 5
 

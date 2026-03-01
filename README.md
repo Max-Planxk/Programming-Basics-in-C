@@ -5,15 +5,10 @@ This repository contains basic C programs for beginners to understand fundamenta
 ## SECTIONS:
 - ARRAYS
 - BASICS
+- DSA
 
-  
-## Programs Included
-- Even and Odd Number Checker
-- factorial checker
-- palindrome checker
-- prime number checker
-- spy number
-
+It has many basics and concpet clearing programs which a beginner could understand better
+as someone who is starting his/her journey as a programmer.
 
    
 
